@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"CollectionManager"},{"l":"CollectionManager.Commands"},{"l":"CommandManager"},{"l":"CommandManager.Commands"},{"l":"Data"},{"l":"Data.Reader"},{"l":"Data.Writer"},{"l":"Main"},{"l":"Model"}];updateSearchResults();
